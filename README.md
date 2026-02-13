@@ -30,3 +30,6 @@ Analisar dados de vendas para entender performance de produtos e comportamento d
 ### Insights
 - Clientes recorrentes geram maior parte da receita
 - Categoria Electronics representa maior faturamento
+
+
+#### Projeto feito linha a linha como forma de aprendizagem
